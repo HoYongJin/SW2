@@ -1,0 +1,1 @@
+![useCase.pdf](https://github.com/user-attachments/files/20274090/useCase.pdf)
